@@ -1,9 +1,0 @@
-pip install streamlit
-pip install time
-pip install dotenv
-pip install zipfile
-pip install yt_dlp
-pip install requests
-pip install sys
-pip install os
-pip install pytube
