@@ -2,12 +2,9 @@ import streamlit as st
 from pytube import YouTube
 from dotenv import load_dotenv
 import os
-import sys
-import time
 import requests
 from zipfile import ZipFile
 import yt_dlp
-
 
 
 st.markdown('# 📝 **Transcriber App**')
